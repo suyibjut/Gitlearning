@@ -1,2 +1,6 @@
 # Gitlearning
 use for study git
+
+Public static void main(){
+  printf("Hello Word!")
+}
